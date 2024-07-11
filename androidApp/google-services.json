@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807911411166",
+    "project_id": "kmmfirebaseotopoc",
+    "storage_bucket": "kmmfirebaseotopoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807911411166:android:8a8f47723e206b7a13e14f",
+        "android_client_info": {
+          "package_name": "com.umeshdev.kmmfirebaseotppoc.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOgDTI5_1Sfa6Fq9W2fdl-1hT9ZHWu1Fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
